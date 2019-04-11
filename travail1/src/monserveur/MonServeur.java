@@ -29,7 +29,7 @@ private static MonServeur single_instance = null;
 
     }
 
-    public void defaultPrint(String m)
+    void defaultPrint(String m)
     {
         System.out.println("defaultPrint" + m);
 
