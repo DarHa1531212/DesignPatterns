@@ -1,4 +1,15 @@
 package vehicule.bombardier.motoneige;
 
-public abstract class SkiDooRenegade  {
+import vehicule.Motoneige;
+
+public class  SkiDooRenegade  extends Motoneige {
+    public SkiDooRenegade() {
+        super(137, 16704);
+    }
+
+
+    public void afficherPublicite()
+    {
+        System.out.println("SkiDooRenegade pub");
+    }
 }

@@ -7,8 +7,16 @@ public abstract class Avion implements Vehicule {
 
 
 
-    public  Avion(int passagerMax, int distanceFranchissable, double vitesseCroisiereMax)
-    { }
+    public  Avion(int nbrepassagerMax, int DistanceFranchissable, double vitesseCroisiereMaximale)
+    {
+        passagerMax = nbrepassagerMax;
+        vitesseCroisiereMax = vitesseCroisiereMaximale;
+        distanceFranchissable = DistanceFranchissable;
+
+    }
     public void afficherCaracteristiques()
-    {}
+    {
+        System.out.println("Passagers max:" + passagerMax + " distance franchissable: " + distanceFranchissable + " vitesse croisiere max: " + vitesseCroisiereMax);
+
+    }
 }

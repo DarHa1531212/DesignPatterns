@@ -1,11 +1,23 @@
 package vehicule;
 
-public abstract class Motoneige implements Vehicule {
+public  class Motoneige implements Vehicule {
     private int longeurChenille;
     private int PDSF;
 
-    public Motoneige(int longeurChenille, int PDSF)
-    {}
-    public void AfficherCaracteristiques()
-    {}
+    public Motoneige(int LongeurChenille, int pDSF)
+    {
+        longeurChenille = LongeurChenille;
+        PDSF = pDSF;
+
+    }
+
+    @Override
+    public void afficherCaracteristiques() {
+        System.out.println("longeur chenilles: " + longeurChenille + " PDSF: " + PDSF );
+    }
+
+    @Override
+    public void afficherPublicite() {
+
+    }
 }
