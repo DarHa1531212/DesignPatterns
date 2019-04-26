@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9161e02c-c875-4abe-a80a-b6e20980ba16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../travail 4/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/JavaProjects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/src/cSystemeExploitation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/src/pEtat/IEtat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/src/pEtat/cEtatAuthentication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/src/pEtat/cEtatDemarrage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/src/pEtat/cEtatEteint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/src/pEtat/cEtatFermeture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travail 4/src/pEtat/cEtatUtilisation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/monserveur/MonServeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/monserveur/MonServeur.java" afterDir="false" />
-    </list>
+    <list default="true" id="9161e02c-c875-4abe-a80a-b6e20980ba16" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="544">
               <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
@@ -132,7 +113,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="981" />
-    <option name="y" value="556" />
+    <option name="y" value="555" />
     <option name="width" value="1302" />
     <option name="height" value="1392" />
   </component>
@@ -142,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,6 +145,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -229,7 +210,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26128837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26490065" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -318,7 +299,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="544">
           <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
