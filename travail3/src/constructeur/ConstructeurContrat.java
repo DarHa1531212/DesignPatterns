@@ -15,6 +15,7 @@ public class ConstructeurContrat {
 
     public Contrat resultat()
     {
+
         return null;
     }
 }

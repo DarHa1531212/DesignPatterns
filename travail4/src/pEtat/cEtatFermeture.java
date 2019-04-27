@@ -13,6 +13,6 @@ public class cEtatFermeture implements IEtat {
 
     @Override
     public void AfficherCommande() {
-
+    System.out.println("System en cours d'éteinte");
     }
 }
