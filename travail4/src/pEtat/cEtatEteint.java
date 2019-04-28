@@ -3,11 +3,17 @@ package pEtat;
 public class cEtatEteint implements IEtat{
     @Override
     public IEtat EnvoyerCommande(int commande) {
+        switch (commande)
+        {
+            case 0: return new cEtatDemarrage();
+
+        }
         return null;
     }
 
     @Override
     public void AfficherInfo() {
+        System.out.println("eteint");
 
     }
 

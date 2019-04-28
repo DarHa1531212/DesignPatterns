@@ -3,11 +3,18 @@ package pEtat;
 public class cEtatUtilisation implements IEtat{
     @Override
     public IEtat EnvoyerCommande(int commande) {
+        switch (commande)
+        {
+            case 0: return new cEtatEteint();
+            case 1: return new cEtatFermeture();
+            case 2: return new cEtatEteint();
+        }
         return null;
     }
 
     @Override
     public void AfficherInfo() {
+        System.out.println("en utilisation");
 
     }
 

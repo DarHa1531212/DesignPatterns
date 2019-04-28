@@ -8,11 +8,12 @@ public class cEtatFermeture implements IEtat {
 
     @Override
     public void AfficherInfo() {
+        System.out.println("en fermeture");
 
     }
 
     @Override
     public void AfficherCommande() {
-    System.out.println("System en cours d'éteinte");
+    System.out.println("0- login\n 1- shutdown");
     }
 }
