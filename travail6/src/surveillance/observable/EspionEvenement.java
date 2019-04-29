@@ -6,7 +6,7 @@ import surveillance.Observable;
 import java.util.List;
 
 public class EspionEvenement implements Observable{
-    private static List<Observateur> observateurs;
+    public static List<Observateur> observateurs;
     private Observable observable;
 
     private static EspionEvenement ourInstance = new EspionEvenement() {
@@ -32,6 +32,7 @@ public class EspionEvenement implements Observable{
 
     public void ajouterObservateur(Observateur observateur)    {
 
+        observateurs.add(observateur);
     }
 
 }
