@@ -3,9 +3,9 @@ package Banque;
 public class Question {
     private String desctiption;
 
-    public Question(String description)
+    public Question(String _description)
     {
-    description = desctiption;
+        desctiption = _description;
 
     }
     protected String getDescription()

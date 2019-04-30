@@ -8,9 +8,10 @@ public class ContratPDF extends Contrat{
 
     public void imprime()
     {
+        System.out.println("CONTRATS PFD:");
         for (String a : documents)
         {
-            System.out.println(a);
+            System.out.println("<PDF>" + a + "<PDF>");
         }
 
     }

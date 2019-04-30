@@ -1,13 +1,27 @@
 package Constructeur;
 
-public class ConstructeurContratPdf {
-    protected Contrat contrat;
+public class ConstructeurContratPdf  extends ConstructeurContrat{
+
+
+    public ConstructeurContratPdf()
+    {
+        contrat = new ContratPDF();
+
+    }
+
     public void construitBonDeCommande(String nomClient)
     {
+        contrat.ajouteDocument("Demande d'immatriculation Demandeur: "+ nomClient);
 
     }
-    public void construitDemandeImmatriculation(String nomDemmandeur)
-    {
+
+    @Override
+    public void construitDemandeImmatriculaiton(String nomDemandeur) {
+        contrat.ajouteDocument("Demande d'imatriculation: " + nomDemandeur);
 
     }
+
+
+
+
 }

@@ -1,21 +1,19 @@
 package Constructeur;
 
+import java.util.ArrayList;
 import java.util.List;
 
-public class Contrat {
+public abstract class Contrat {
     protected List<String > documents;
+
     public Contrat()
     {
+        documents = new ArrayList<>();
+
 
     }
 
-    public void ajouteDocument (String document)
-    {
+    public abstract void ajouteDocument (String document);
 
-    }
-
-    public void imprime()
-    {
-
-    }
+    public abstract void imprime();
 }

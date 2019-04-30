@@ -9,9 +9,11 @@ public class ContratHTML extends Contrat {
 
     public void imprime()
     {
+
+        System.out.println("documents HTML:");
         for (String a : documents)
         {
-            System.out.println(a);
+            System.out.println("<HTML>" + a +"</HTML> ");
         }
     }
 }

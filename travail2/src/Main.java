@@ -7,6 +7,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("Nom: Hans Darmstadt-Bélanger\n projet: fabrique abstraite");
         List<Vehicule> mesVehicues = new ArrayList<>();
         FabriqueVehicule fabrique;
 

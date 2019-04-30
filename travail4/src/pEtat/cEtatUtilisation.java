@@ -6,7 +6,7 @@ public class cEtatUtilisation implements IEtat{
         switch (commande)
         {
             case 0: return new cEtatEteint();
-            case 1: return new cEtatFermeture();
+            case 1: return new cEtatAuthentication();
             case 2: return new cEtatEteint();
         }
         return null;

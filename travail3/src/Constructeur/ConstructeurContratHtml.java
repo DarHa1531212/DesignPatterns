@@ -3,17 +3,18 @@ package Constructeur;
 public class ConstructeurContratHtml extends ConstructeurContrat{
     public ConstructeurContratHtml()
     {
+        contrat = new ContratHTML();
 
     }
 
-    public void construiBonDeCommande (String nomClient)
-    {
+    @Override
+    public void construitBonDeCommande(String nomClient) {
+        contrat.ajouteDocument("Bon de commande Clienr: " + nomClient);
 
     }
 
-    public void construitDemmandeImmatriculation(String nomDemmandeur)
-    {
-
-
+    @Override
+    public void construitDemandeImmatriculaiton(String nomDemandeur) {
+        contrat.ajouteDocument("Demande d'immatriculation Demandeur: "+ nomDemandeur);
     }
 }

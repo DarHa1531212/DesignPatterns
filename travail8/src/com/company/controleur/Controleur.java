@@ -28,6 +28,11 @@ public class Controleur {
 
     }
 
+    public void setActeur(Acteur _acteur)
+    {
+        acteur = _acteur;
+    }
+
     public void setCommandes(Bouton bouton)
     {
         switch (bouton)

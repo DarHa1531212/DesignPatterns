@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("Nom: Hans darmstadt-Bélanger\n Machine d'état");
+
         Scanner sc = new Scanner (System.in);
         cSystemeExploitation se = new cSystemeExploitation();
 

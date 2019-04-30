@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9161e02c-c875-4abe-a80a-b6e20980ba16" name="Default Changelist" comment="" />
+    <list default="true" id="9161e02c-c875-4abe-a80a-b6e20980ba16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../travail3/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/Travail8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/Acteur/Acteur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/Acteur/BT7274.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/Acteur/Drone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/Bouton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/Controleur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/commande/Commande.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/commande/CommandeEscive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/commande/CommandeSaut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/commande/CommandeTir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travail8/src/com/company/controleur/commande/commandeChangementarme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail 7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/MonServeur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceB$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceB$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceB$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceB$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceBInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceBInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceInterfaceA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/monserveur/ServiceInterfaceA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../travail2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/Constructeur/ConstructeurContrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/src/Constructeur/ConstructeurContrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/Constructeur/ConstructeurContratHtml.java" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/src/Constructeur/ConstructeurContratHtml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/Constructeur/ConstructeurContratPdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/src/Constructeur/ConstructeurContratPdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/Constructeur/Contrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/src/Constructeur/Contrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/Constructeur/ContratHTML.java" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/src/Constructeur/ContratHTML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/Constructeur/ContratPDF.java" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/src/Constructeur/ContratPDF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/constructeur/ConstructeurContrat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/constructeur/Contrat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/constructeur/ContratHtml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/constructeur/ContratPdf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/src/directeur/Vendeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/src/directeur/Vendeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travail3/travail3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../travail3/travail3.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,27 +68,26 @@
     <SUITE FILE_PATH="coverage/untitled1$Main.ic" NAME="Main Coverage Results" MODIFIED="1554387651106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="untitled1" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="90">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="79" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/monserveur/MonServeur.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
+            <state relative-caret-position="315">
               <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
             </state>
           </provider>
@@ -42,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/monserveur/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="60">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
@@ -51,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="450">
               <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
@@ -60,7 +114,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceBInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="105">
               <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
             </state>
           </provider>
@@ -69,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceInterfaceA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="45">
               <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
             </state>
           </provider>
@@ -78,7 +132,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
@@ -105,17 +159,15 @@
         <option value="$PROJECT_DIR$/src/monserveur/ServiceInterfaceA.java" />
         <option value="$PROJECT_DIR$/src/monserveur/Service.java" />
         <option value="$PROJECT_DIR$/src/monserveur/ServiceA.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/monserveur/ServiceB.java" />
         <option value="$PROJECT_DIR$/src/monserveur/MonServeur.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="981" />
-    <option name="y" value="555" />
-    <option name="width" value="1302" />
-    <option name="height" value="1392" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,6 +175,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,13 +199,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554388442807" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -208,9 +261,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.26490065" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.27239263" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -219,7 +273,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3278328" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37703142" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="5" />
@@ -271,7 +325,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>9</line>
+          <line>11</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -285,50 +339,50 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/monserveur/MonServeur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/monserveur/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
+        <state relative-caret-position="450">
           <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceBInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="105">
           <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceInterfaceA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="45">
           <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/monserveur/ServiceA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/monserveur/MonServeur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
         </state>
       </provider>
     </entry>

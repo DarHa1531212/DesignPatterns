@@ -7,6 +7,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("Nom: Hans Darmstadt-Bélanger\nPoids Mouche");
+
         final int NB_ETUDNANTS = 149;
         ArrayList<Evaluation> mesEvaluationsAndroid = new ArrayList<Evaluation>();
 

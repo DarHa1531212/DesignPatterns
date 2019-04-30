@@ -1,20 +1,14 @@
 package Constructeur;
 
-public class ConstructeurContrat {
+public abstract class ConstructeurContrat {
     protected Contrat contrat;
-    public void construitBonDeCommande(String nomClient)
-    {
+    public abstract void construitBonDeCommande(String nomClient);
 
 
-    }
-
-    public void construitDemandeImmatriculaiton(String nomDemandeur)
-    {
-
-    }
+    public abstract void construitDemandeImmatriculaiton(String nomDemandeur);
 
     public Contrat resultat()
     {
-        return null;
+        return contrat;
     }
 }
