@@ -7,6 +7,7 @@ import com.company.controleur.commande.CommandeEscive;
 import com.company.controleur.commande.CommandeSaut;
 import com.company.controleur.commande.CommandeTir;
 
+
 import javax.naming.ldap.Control;
 
 public class Main {
@@ -21,7 +22,7 @@ public class Main {
 
         System.out.println(controleur);
 
-        controleur.jouer(Controleur.Bouton.X);
+        controleur.jouer(Controleur.Bouton.A.X);
         controleur.jouer(Controleur.Bouton.Y);
         controleur.jouer(Controleur.Bouton.A);
         controleur.jouer(Controleur.Bouton.B);

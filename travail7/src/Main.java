@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args)
     {
+
+        System.out.println("Nom: Hans Darmstadt-Belanger\n decorateur");
         ArrayList<Malbouffe> malbouffes = new ArrayList<>();
 
         McDo mcDo = new McDo();

@@ -6,6 +6,8 @@ import surveillance.observable.Observateur;
 
 public  class Log implements Observateur {
     private int NIVEAU_LOG;
+
+
     public Log(int NIVEAU_LOG)
     {
         NIVEAU_LOG = NIVEAU_LOG;
@@ -13,6 +15,8 @@ public  class Log implements Observateur {
 
     }
 
+
+    @Override
     public void alerter(Evenement evenement) {
         if (evenement.niveauUrgence > NIVEAU_LOG)
         {

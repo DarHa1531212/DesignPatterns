@@ -4,8 +4,8 @@ import surveillance.Evenement;
 import surveillance.observable.EspionEvenement;
 import surveillance.observable.Observateur;
 
-public  class GenerateurBuillet implements Observateur {
-     public GenerateurBuillet()
+public  class GenerateurBillet implements Observateur {
+     public GenerateurBillet()
      {
          EspionEvenement.getInstance().ajouterObservateur(this);
 

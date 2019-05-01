@@ -3,15 +3,17 @@ package surveillance.observable;
 import surveillance.Evenement;
 import surveillance.Observable;
 
+import java.util.ArrayList;
 import java.util.List;
 
-public class EspionEvenement implements Observable{
-    public static List<Observateur> observateurs;
-    private Observable observable;
+public class EspionEvenement implements Observable {
 
-    private static EspionEvenement ourInstance = new EspionEvenement() {
 
-    };
+    private List<Observateur> observateurs = new ArrayList<>();
+
+
+
+    private static EspionEvenement ourInstance = new EspionEvenement();
 
     public static EspionEvenement getInstance() {
         return ourInstance;
@@ -22,17 +24,21 @@ public class EspionEvenement implements Observable{
 
     public void alerter (Evenement evenement)
     {
+        for (Observateur observateur : observateurs) {
+            observateur.alerter(evenement);
+        }
+    }
+
+    @Override
+    public void ajouterObservateur(Observateur _observateur) {
+        observateurs.add(_observateur);
 
 
     }
 
-    public void supprimerObservateur(Observateur observateur) {
+    @Override
+    public void supprimerObservateur(Observateur _observateur) {
+        observateurs.remove(_observateur);
 
     }
-
-    public void ajouterObservateur(Observateur observateur)    {
-
-        observateurs.add(observateur);
-    }
-
 }

@@ -4,10 +4,10 @@ import com.company.controleur.Acteur.Acteur;
 import com.company.controleur.commande.*;
 
 public class Controleur {
-    private Commande[] commandes;
+    private Commande[] commandes = new Commande[4];
     private Acteur acteur;
 
-    public Controleur(Acteur acteur_ )
+    public Controleur(Acteur acteur_)
     {
         acteur = acteur_;
         reinitialiserCommanes();
@@ -56,19 +56,19 @@ public class Controleur {
         switch (bouton) {
             case A:
                 if (commandes[2] != null)
-                    new CommandeEscive().executer();
+                    new CommandeEscive().executer(acteur);
                 break;
             case B:
                 if (commandes[3] != null)
-                    new commandeChangementarme().executer();
+                    new commandeChangementarme().executer(acteur);
                 break;
             case X:
                 if (commandes[0] != null)
-                    new CommandeSaut().executer();
+                    new CommandeSaut().executer(acteur);
                 break;
             case Y:
                 if (commandes[1] != null)
-                    new CommandeTir().executer();
+                    new CommandeTir().executer(acteur);
                 break;
         }
     }
@@ -76,5 +76,9 @@ public class Controleur {
     public String toString()
     {
         return null;
+    }
+
+    public enum Bouton {
+        A,B,X,Y
     }
 }

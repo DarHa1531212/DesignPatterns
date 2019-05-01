@@ -1,25 +1,33 @@
 package surveillance;
 
 import surveillance.observable.EspionEvenement;
-import surveillance.observateur.GenerateurBuillet;
+import surveillance.observable.ThreadEvenement;
+import surveillance.observateur.GenerateurBillet;
 import surveillance.observateur.Log;
 import surveillance.observateur.Rapport;
 import surveillance.observateur.Support;
 
 public class Main {
-    public static void main(String[] args)
-    {
+
+    public static void main(String[] args) throws InterruptedException {
 
         Log log = new Log (50);
         Rapport rapport = new Rapport();
         Support support = new Support();
-        GenerateurBuillet generateurBuillet = new GenerateurBuillet();
 
-        EspionEvenement a = EspionEvenement.getInstance();
+        GenerateurBillet generateurBillet = new GenerateurBillet();
 
-        a.supprimerObservateur(log);
-        a.supprimerObservateur(rapport);
-        a.supprimerObservateur(support);
+
+        ThreadEvenement t = new ThreadEvenement(EspionEvenement.getInstance());
+
+        //ThreadEvenement  t = new ThreadEvenement(EspionEvenement.getObservable());
+        t.run();
+
+        Thread.sleep(5000);
+
+        EspionEvenement.getInstance().supprimerObservateur(log);
+        EspionEvenement.getInstance().supprimerObservateur(support);
+        EspionEvenement.getInstance().supprimerObservateur(rapport);
     }
 
 
